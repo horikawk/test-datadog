@@ -1,0 +1,6 @@
+dist/
+dist-pages/
+node_modules/
+coverage/
+junit.xml
+public/mockServiceWorker.js
